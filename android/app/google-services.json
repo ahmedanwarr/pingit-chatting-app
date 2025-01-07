@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214810382595",
+    "project_id": "ping-it-b2e13",
+    "storage_bucket": "ping-it-b2e13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214810382595:android:8d84c2645b36cafaded936",
+        "android_client_info": {
+          "package_name": "com.example.pingit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtjUp2eYjFrL3Qo4sCer6aSBsnBGKKLZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
